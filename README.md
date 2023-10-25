@@ -1,8 +1,12 @@
 # README.md
 
+Screenshot
+![README md](https://github.com/Sam-Wisdoms/marketing-code-refactor/assets/94742747/c72ddded-c672-4dd4-b2ac-8445dd5b2b38)
+
 ## marketing-code-refactor
 Title: 
 Marketing Code Refactor.
+
 This project is about a code refactor for a marketing agency's website to improve accessibility.
 Heriseon is a marketing company that specializes in supporting other businesses to market their products.
 With advent of new technologies and internet presence, competition is very high among businesses of all kinds.
