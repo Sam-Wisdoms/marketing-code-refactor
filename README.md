@@ -12,6 +12,8 @@ All heading attributes have been rearranged in sequential order and tags grouped
 Deploy the page on GitHub and conducted testing to ensure that it is user friendly and accessible to customers. 
 
 
+Link to the deployed application
+https://sam-wisdoms.github.io/marketing-code-refactor/
  
 Credits:
 https://www.w3schools.com/html/html5_semantic_elements.asp 
